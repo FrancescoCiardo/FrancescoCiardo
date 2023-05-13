@@ -1,4 +1,4 @@
-# About Me
+# <p align=center><strong>About me!</strong></p>
 - 👋 Hi, I’m @FrancescoCiardo
 - 📚 Informatics student at University of Bari, Italy.
 - 🌱 I'm currently interested in Data Science and AI
